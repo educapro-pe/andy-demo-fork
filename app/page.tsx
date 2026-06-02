@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-center bg-gradient-to-br from-slate-50 via-blue-50 to-indigo-100 px-6 text-center font-sans text-slate-800">
       <h1 className="text-5xl font-bold tracking-tight sm:text-6xl">
-        🍴 Andy Demo Fork
+        🍴 Andy Demo Fork 2
       </h1>
 
       <p className="mt-4 max-w-xl text-lg text-slate-600">
